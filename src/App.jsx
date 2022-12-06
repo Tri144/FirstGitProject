@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <h1>Tao là mạnh đây</h1>
+      <h1>Tao là Tri abc đây</h1>
     </div>
   );
 }
