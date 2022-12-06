@@ -11,6 +11,7 @@ function App() {
       <h1>Tao là Tri abc đây</h1>
       <h1>Tao là Nam abc đây</h1>
       <h1>Em là Sieu Troi abc đây</h1>
+      <h1>Tri Branch đây</h1>
     </div>
   );
 }
